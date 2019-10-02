@@ -136,6 +136,11 @@ public class StockAcounting
     	 return res;
 			
 		} 
+     //printGit
+     public static void main()
+     {
+    	 System.out.println("github");
+     }
      
    public static void main(String[] args) throws Throwable {
 	StockAcounting app=new StockAcounting();
